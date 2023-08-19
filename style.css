@@ -317,15 +317,15 @@ section{
 }
 
 .about .row .progress .bar-2-1 span{
-    width: 95%;
+    width: 10%;
 }
 
 .about .row .progress .bar-2-2 span{
-    width: 89%;
+    width: 40%;
 }
 
 .about .row .progress .bar-2-3 span{
-    width: 65%;
+    width: 20%;
 }
 
 .services .box-container{
